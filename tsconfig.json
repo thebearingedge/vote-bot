@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "strict": true,
+    "target": "esnext"
+  },
+  "include": [
+    "src/"
+  ],
+  "ts-node": {
+    "transpileOnly": true
+  }
+}
